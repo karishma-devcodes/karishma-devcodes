@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Karishma;AI+Enthusiast;Python+Developer;Exploring+Artificial+Intelligence;Building+Technology+for+Real+World+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Hello!,+I'm+Karishma;AI+Enthusiast;Python+Developer;Exploring+Artificial+Intelligence;Building+Technology+for+Real+World+Impact" />
 
 </p>
 <h1 align="center">Hello!, I'm Karishma</h1>
@@ -114,3 +114,81 @@ A passionate Computer Science undergraduate from Erode, Tamil Nadu, who enjoys b
 ### 🌟 Motto
 
 > "Learning, Building, and Exploring the Future with AI."
+
+---
+
+## 🚀 Featured Projects
+
+🌿 Carbon Absorber Application – Developed an algae-based environmental sustainability solution focused on carbon absorption and eco-friendly practices.
+
+⛓️ Blockchain Herb Traceability System – Designed a blockchain-based solution to ensure transparency, authenticity, and traceability in the herbal supply chain.
+
+🌦️ Weather Dashboard – Built a responsive weather dashboard displaying real-time weather information using APIs.
+
+💻 Academic & Learning Projects – Developed mini projects while exploring web technologies, databases, and software development concepts.
+
+---
+
+## 🏆 Achievements
+
+🏅 Secured 4th Place in Project Presentation for Blockchain Herb Traceability.
+
+📜 Earned Software Testing Certification.
+
+🎓 Maintaining a CGPA of 8.9 in Computer Science & Engineering.
+
+🚀 Actively exploring Artificial Intelligence and emerging technologies.
+
+---
+
+## 🎓 Education
+
+🎓 B.E. Computer Science and Engineering | JKK Munirajah College of Technology(2023-2027) | CGPA: 8.9
+
+🏫 Higher Secondary | AVMHSS | 2022 – 2023 | 81.5%
+
+---
+
+## 🌱 Currently Learning
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+⚛️ React.js
+
+🍃 MongoDB
+
+🗄️ Database Management Systems
+
+📊 Machine Learning Fundamentals
+
+☁️ Modern Software Development Practices
+
+---
+
+## 🤝 Open To
+
+💼 AI & Software Development Internships
+
+🤝 Technical Collaborations
+
+🔬 Research Opportunities
+
+🚀 Innovative Technology Projects
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: karishmaecse23@jkkmct.edu.in
+
+💼 LinkedIn: https://linkedin.com/in/karishma-eswaramurthi-96a9132a3
+
+💻 GitHub: https://github.com/karishma-devcodes
+
+---
+
+### 💡 Professional Statement
+
+Passionate about leveraging Artificial Intelligence and emerging technologies to build innovative solutions for real-world challenges.
+
+> "Technology becomes meaningful when it helps solve real-world problems."
