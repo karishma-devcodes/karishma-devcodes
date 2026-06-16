@@ -179,13 +179,31 @@ A passionate Computer Science undergraduate from Erode, Tamil Nadu, who enjoys b
 
 ## 🌐 Connect With Me
 
-📧 Email: karishmaecse23@jkkmct.edu.in
+<p align="left">
 
-💼 LinkedIn: https://linkedin.com/in/karishma-eswaramurthi-96a9132a3
+<a href="https://linkedin.com/in/karishmaeswaramurthi-96a9132a3">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💻 GitHub: https://github.com/karishma-devcodes
+<a href="mailto:karishmaecse23@jkkmct.edu.in">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/karishma-devcodes">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=karishma-devcodes&theme=tokyonight&no-frame=true&margin-w=15)
+
+---
+
+![](https://komarev.com/ghpvc/?username=karishma-devcodes&style=for-the-badge&color=blueviolet)
 
 ### 💡 Professional Statement
 
