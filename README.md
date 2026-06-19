@@ -36,6 +36,8 @@ A passionate Computer Science undergraduate from Erode, Tamil Nadu, who enjoys b
 
 🌱 Currently learning Database Systems, MongoDB, React.js, and modern software development practices
 
+📊 Proficient in Microsoft Excel and Microsoft Word for documentation, data management, report preparation, and project presentation.
+
 🚀 Developed a Carbon Absorber Application leveraging algae-based concepts for environmental sustainability
 
 🐍 Strong foundation in Python and problem-solving
@@ -88,6 +90,8 @@ A passionate Computer Science undergraduate from Erode, Tamil Nadu, who enjoys b
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge)
+![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ---
 
